@@ -2,3 +2,10 @@
 body {
     background-color: rgb(127, 204, 255);
 }
+
+.vertical-line {
+    width: 1px; /* Szerokość kreski */
+    height: 200px; /* Wysokość kreski */
+    background-color: black; /* Kolor kreski */
+    margin: 0 auto; /* Wyśrodkowanie (opcjonalne) */
+}
